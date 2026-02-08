@@ -1,0 +1,231 @@
+.gallery-area {
+	    background: #ffffff;
+	    padding: 100px 0;
+	}
+	.gallery-area .gallery-body-img .gallery-c-01 {
+	    padding: 0;
+	}
+	.gallery-area .gallery-body-img .gallery-c-02 {
+	    padding: 0;
+	}
+	.gallery-area .gallery-body-img .gallery-c-02 .gallery-single-item {
+	    margin: 3px;
+	}
+	.gallery-area .gallery-body-img .gallery-c-02 .gallery-single-item figure {
+	    position: relative;
+	}
+	.gallery-area .gallery-body-img .gallery-c-02 .gallery-single-item figure:before {
+	    position: absolute;
+	    content: "";
+	    width: 100%;
+	    height: 100%;
+	    background: rgba(254, 199, 34, 0.75);
+	    transform: rotate(45deg) scale(0);
+	    transition: .5s ease;
+	    visibility: hidden;
+	    opacity: 0;
+	    left: 0;
+	}
+	.gallery-area .gallery-body-img .gallery-c-02 .gallery-single-item figure img {
+	    height: 100%;
+	    width: 100%;
+	}
+	.gallery-area .gallery-body-img .gallery-c-02 .gallery-single-item figure figcaption {
+	    position: absolute;
+	    left: 0;
+	    top: 45%;
+	    width: 100%;
+	    text-align: center;
+	    transition: all 0.3s ease-in-out;
+	    visibility: hidden;
+	    opacity: 0;
+	}
+	.gallery-area .gallery-body-img .gallery-c-02 .gallery-single-item figure figcaption ul li {
+	    display: inline-block;
+	    font-size: 27px;
+	    height: 30px;
+	    line-height: 26px;
+	    margin: 0 5px;
+	    width: 30px;
+	}
+	.gallery-area .gallery-body-img .gallery-c-02 .gallery-single-item figure figcaption ul li a {
+	    color: #ffffff;
+	}
+	.gallery-area .gallery-body-img .gallery-c-02 .gallery-single-item:hover figure::before {
+	    visibility: visible;
+	    opacity: 1;
+	    transform: rotate(0deg) scale(1);
+	    width: 100;
+	}
+	.gallery-area .gallery-body-img .gallery-c-02 .gallery-single-item:hover figcaption {
+	    visibility: visible;
+	    transition: all 0.3s ease-in-out;
+	    opacity: 1;
+	}
+
+
+	 .Courses-area-02 {
+	    background: #f9f9f9;
+	    padding: 100px 0;
+	}
+	 .Courses-area-02 .courses-r-margin-bottom {
+	    margin-bottom: 30px;
+	}
+	 .Courses-area-02 .courses-r-margin-bottom:last-child {
+	    margin-bottom: 0;
+	}
+	 .Courses-area-02 .single-courses {
+	    box-shadow: 0 0 10px rgba(0, 0, 0, 0.13);
+	    transition: all 0.3s ease-in-out;
+	}
+	 .Courses-area-02 .single-courses:hover {
+	    box-shadow: 0 1px 30px rgba(0, 0, 0, 0.25);
+	    transition: all 0.3s ease-in-out;
+	}
+	 .Courses-area-02 .single-courses figure {
+	    position: relative;
+	}
+	 .Courses-area-02 .single-courses figure .figure-img {
+	    position: relative;
+	    width: auto;
+	    overflow: hidden;
+	}
+	 .Courses-area-02 .single-courses figure .figure-img img {
+	    width: 100%;
+	    height: 100%;
+	    transition: all 0.3s ease-in-out;
+	}
+	 .Courses-area-02 .single-courses figure .figure-img img:hover {
+	    transform: scale(1.1);
+	}
+	 .Courses-area-02 .single-courses figure .figure-img .sale-banner {
+	    position: absolute;
+	    content: "";
+	    top: -15px;
+	    left: -55px;
+	    padding: 30px 50px 10px;
+	    z-index: 100;
+	    background: #fec722;
+	    transform: rotate(-45deg);
+	    text-transform: uppercase;
+	    color: #ffffff;
+	    font-weight: 700;
+	    font-family: "Montserrat", sans-serif;
+	}
+	 .Courses-area-02 .single-courses figure figcaption ul {
+	    margin: 0;
+	}
+	 .Courses-area-02 .single-courses figure figcaption ul li {
+	    display: inline-block;
+	    text-align: left;
+	    font-family: "Montserrat", sans-serif;
+	    color: #fec722;
+	}
+	 .Courses-area-02 .single-courses figure figcaption ul li:last-child {
+	    float: right;
+	}
+	 .Courses-area-02 .single-courses figure figcaption ul .courses-free {
+	    position: absolute;
+	    bottom: 0;
+	    z-index: 100;
+	    left: 0;
+	    background: #ffffff;
+	    padding: 7px 15px;
+	    text-transform: uppercase;
+	    line-height: 30px;
+	    font-size: 18px;
+	}
+	 .Courses-area-02 .single-courses figure figcaption ul .courses-free span {
+	    font-size: 14px;
+	    text-decoration: line-through;
+	    font-style: italic;
+	    color: #666666;
+	}
+	 .Courses-area-02 .single-courses figure figcaption ul .rating {
+	    position: absolute;
+	    color: #fec722;
+	    bottom: 0;
+	    z-index: 100;
+	    right: 0;
+	    padding: 0px 15px 13px;
+	    font-size: 12px;
+	}
+	 .Courses-area-02 .single-courses .courses-content-box {
+	    padding: 20px;
+	}
+	 .Courses-area-02 .single-courses .courses-content-box .courses-content h3 {
+	    margin: 0;
+	}
+	 .Courses-area-02 .single-courses .courses-content-box .courses-content h3 a {
+	    color: #323232;
+	    margin: 0px;
+	    text-decoration: none;
+	    font-weight: 700;
+	    font-size: 15px;
+	    transition: all 0.3s ease-in-out;
+	}
+
+	 .Welcome-area {
+	    padding: 100px 0;
+	}
+	 .Welcome-area .wel-text-box {
+	    text-align: center;
+	}
+	 .Welcome-area .wel-text-box .wel-icon {
+	    background-color: #fec722;
+	    border-radius: 100%;
+	    height: 120px;
+	    margin: 0 auto;
+	    position: relative;
+	    width: 120px;
+	}
+	 .Welcome-area .wel-text-box .wel-icon:before {
+	    border: 8px solid rgba(254, 199, 34, 0.2);
+	    border-radius: 100%;
+	    content: "";
+	    height: 114%;
+	    left: -8px;
+	    position: absolute;
+	    top: -8px;
+	    width: 114%;
+	    z-index: 2;
+	}
+	 .Welcome-area .wel-text-box .wel-icon img {
+	    height: 60px;
+	    margin-top: 20px;
+	    width: 60px;
+	}
+	 .Welcome-area .wel-text-box .wel-text {
+	    margin-top: -60px;
+	    box-shadow: 0 0 10px rgba(0, 0, 0, 0.13);
+	    padding: 100px 25px 40px;
+	    transition: all 0.3s ease-in-out;
+	}
+	 .Welcome-area .wel-text-box .wel-text:hover {
+	    box-shadow: 0 1px 30px rgba(0, 0, 0, 0.25);
+	    transition: all 0.3s ease-in-out;
+	}
+	 .Welcome-area .wel-text-box .wel-text h3 {
+	    font-size: 20px;
+	    padding-bottom: 15px;
+	}
+	 .Welcome-area .wel-text-box .wel-text p {
+	    padding-bottom: 25px;
+	    margin: 0;
+	}
+	 .Welcome-area .wel-text-box .wel-text a {
+	    color: #323232;
+	    margin: 0px;
+	    text-decoration: none;
+	    text-transform: uppercase;
+	    font-family: "Open Sans", sans-serif;
+	    font-weight: 600;
+	    font-size: 14px;
+	    transition: all 0.3s ease-in-out;
+	}
+	 .Welcome-area .wel-text-box .wel-text a i {
+	    padding-left: 5px;
+	}
+
+
+	

@@ -1,0 +1,764 @@
+[09-Mar-2023 13:36:21 Asia/Kolkata] PHP Notice:  Undefined index: number in /home/emotioni/public_html/edupoint_latest/footer.php on line 184
+[09-Mar-2023 13:36:22 Asia/Kolkata] PHP Notice:  Undefined index: number in /home/emotioni/public_html/edupoint_latest/footer.php on line 184
+[09-Mar-2023 13:36:24 Asia/Kolkata] PHP Notice:  Undefined index: number in /home/emotioni/public_html/edupoint_latest/footer.php on line 184
+[09-Mar-2023 13:36:26 Asia/Kolkata] PHP Notice:  Undefined index: subject in /home/emotioni/public_html/edupoint_latest/contact.php on line 172
+[09-Mar-2023 13:36:30 Asia/Kolkata] PHP Notice:  Undefined index: subject in /home/emotioni/public_html/edupoint_latest/contact.php on line 172
+[12-Nov-2024 08:03:46 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[12-Nov-2024 08:03:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Tue, 12 N...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Tue, 12 N...', '--b1_08ff9e1dcc...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[13-Nov-2024 11:58:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Wed, 13 N...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Wed, 13 N...', '--b1_55e17a718c...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[14-Nov-2024 05:52:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Thu, 14 N...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Thu, 14 N...', '--b1_92a7d8b3f2...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[21-Nov-2024 08:39:36 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[21-Nov-2024 08:39:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Thu, 21 N...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Thu, 21 N...', '--b1_2d9f4b7585...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[24-Nov-2024 12:09:31 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[24-Nov-2024 12:09:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sun, 24 N...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sun, 24 N...', '--b1_c0d22d4350...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[25-Nov-2024 14:13:14 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[25-Nov-2024 14:13:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Mon, 25 N...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Mon, 25 N...', '--b1_290c452c04...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[27-Nov-2024 13:19:48 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[27-Nov-2024 13:19:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Wed, 27 N...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Wed, 27 N...', '--b1_b708a8a1e4...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[29-Nov-2024 07:25:57 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[29-Nov-2024 07:25:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Fri, 29 N...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Fri, 29 N...', '--b1_9c82c2a0c2...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[04-Dec-2024 14:00:32 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[04-Dec-2024 14:00:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Wed, 4 De...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Wed, 4 De...', '--b1_b7c873407e...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[05-Dec-2024 15:37:41 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[05-Dec-2024 15:37:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Thu, 5 De...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Thu, 5 De...', '--b1_6a8db60d4a...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[06-Dec-2024 14:18:10 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[06-Dec-2024 14:18:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Fri, 6 De...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Fri, 6 De...', '--b1_42d1fb0130...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[11-Dec-2024 14:54:19 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[11-Dec-2024 14:54:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Wed, 11 D...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Wed, 11 D...', '--b1_bf0a5e98e8...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[12-Dec-2024 17:42:44 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[12-Dec-2024 17:42:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Thu, 12 D...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Thu, 12 D...', '--b1_0ae719f734...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[13-Dec-2024 13:32:17 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[13-Dec-2024 13:32:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Fri, 13 D...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Fri, 13 D...', '--b1_2eb6ab3fae...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[14-Dec-2024 07:02:28 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[14-Dec-2024 07:02:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sat, 14 D...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sat, 14 D...', '--b1_61e05d766e...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[17-Dec-2024 07:38:27 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[17-Dec-2024 07:38:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Tue, 17 D...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Tue, 17 D...', '--b1_fa439713f8...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[20-Dec-2024 09:04:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Fri, 20 D...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Fri, 20 D...', '--b1_4022e87359...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[20-Dec-2024 09:07:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Fri, 20 D...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Fri, 20 D...', '--b1_83d02ba029...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[21-Dec-2024 21:43:34 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[21-Dec-2024 21:43:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sat, 21 D...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sat, 21 D...', '--b1_9b85cecf18...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[22-Dec-2024 07:12:35 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[22-Dec-2024 07:12:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sun, 22 D...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sun, 22 D...', '--b1_b584930677...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[24-Dec-2024 09:50:09 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[24-Dec-2024 09:50:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Tue, 24 D...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Tue, 24 D...', '--b1_f80a1c81fd...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[24-Dec-2024 14:29:59 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[24-Dec-2024 14:29:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Tue, 24 D...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Tue, 24 D...', '--b1_96349e3326...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[29-Dec-2024 10:52:19 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[29-Dec-2024 10:52:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sun, 29 D...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sun, 29 D...', '--b1_0934c4bc09...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[30-Dec-2024 11:40:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Mon, 30 D...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Mon, 30 D...', '--b1_c2e5b05059...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/register.php(40): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[01-Jan-2025 07:18:09 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[01-Jan-2025 07:18:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Wed, 1 Ja...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Wed, 1 Ja...', '--b1_f297ef4099...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[03-Jan-2025 20:40:45 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[03-Jan-2025 20:40:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Fri, 3 Ja...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Fri, 3 Ja...', '--b1_26a9a90244...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[05-Jan-2025 02:44:34 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[05-Jan-2025 02:44:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sun, 5 Ja...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sun, 5 Ja...', '--b1_93fd86a950...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[11-Jan-2025 05:03:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sat, 11 J...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sat, 11 J...', '--b1_274702a227...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/register.php(40): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[16-Jan-2025 09:07:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Thu, 16 J...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Thu, 16 J...', '--b1_ad4819ecfb...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[16-Jan-2025 11:10:32 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[16-Jan-2025 11:10:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Thu, 16 J...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Thu, 16 J...', '--b1_3341bb244e...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[22-Jan-2025 12:37:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Wed, 22 J...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Wed, 22 J...', '--b1_8af3027628...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[28-Jan-2025 17:57:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Tue, 28 J...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Tue, 28 J...', '--b1_5b69e3e968...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[28-Jan-2025 21:47:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Tue, 28 J...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Tue, 28 J...', '--b1_a26960986a...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/register.php(40): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[30-Jan-2025 09:52:07 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[30-Jan-2025 09:52:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Thu, 30 J...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Thu, 30 J...', '--b1_717c9dbf13...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[01-Feb-2025 08:28:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sat, 1 Fe...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sat, 1 Fe...', '--b1_5154f13a23...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[03-Feb-2025 21:52:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Mon, 3 Fe...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Mon, 3 Fe...', '--b1_f58e2ebc31...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/register.php(40): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[06-Feb-2025 09:11:03 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[06-Feb-2025 09:11:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Thu, 6 Fe...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Thu, 6 Fe...', '--b1_74b5fe8989...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[06-Feb-2025 10:55:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Thu, 6 Fe...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Thu, 6 Fe...', '--b1_d9588937d2...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/register.php(40): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[07-Feb-2025 00:45:54 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[07-Feb-2025 00:45:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Fri, 7 Fe...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Fri, 7 Fe...', '--b1_4fc1a4c148...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[09-Feb-2025 17:16:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sun, 9 Fe...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sun, 9 Fe...', '--b1_da3c54ee28...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[12-Feb-2025 13:26:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Wed, 12 F...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Wed, 12 F...', '--b1_8704a5aa71...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[14-Feb-2025 17:50:42 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[14-Feb-2025 17:50:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Fri, 14 F...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Fri, 14 F...', '--b1_4e6b85d7e0...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[16-Feb-2025 05:47:10 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[16-Feb-2025 05:47:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sun, 16 F...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sun, 16 F...', '--b1_ede422ca50...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[17-Feb-2025 00:06:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Mon, 17 F...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Mon, 17 F...', '--b1_058f1300ec...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[17-Feb-2025 08:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Mon, 17 F...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Mon, 17 F...', '--b1_9504766a7a...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[17-Feb-2025 10:00:50 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[17-Feb-2025 10:00:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Mon, 17 F...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Mon, 17 F...', '--b1_296cb52552...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[23-Feb-2025 22:03:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sun, 23 F...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sun, 23 F...', '--b1_0ce9b9dd26...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[24-Feb-2025 01:49:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Mon, 24 F...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Mon, 24 F...', '--b1_f0f6e91121...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[24-Feb-2025 02:12:12 UTC] PHP Warning:  Undefined array key "comments" in /home/rsariinj/public_html/footer.php on line 186
+[24-Feb-2025 02:12:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Mon, 24 F...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Mon, 24 F...', '--b1_8722a0533b...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[24-Feb-2025 14:26:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Mon, 24 F...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Mon, 24 F...', '--b1_628b5581d7...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[25-Feb-2025 14:01:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Tue, 25 F...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Tue, 25 F...', '--b1_8da77e6a77...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[25-Feb-2025 21:15:51 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[25-Feb-2025 21:15:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Tue, 25 F...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Tue, 25 F...', '--b1_2722efb002...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[27-Feb-2025 22:57:27 UTC] PHP Warning:  Undefined array key "comments" in /home/rsariinj/public_html/footer.php on line 186
+[27-Feb-2025 22:57:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Thu, 27 F...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Thu, 27 F...', '--b1_f091381f09...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[27-Feb-2025 22:57:33 UTC] PHP Warning:  Undefined array key "comments" in /home/rsariinj/public_html/footer.php on line 186
+[27-Feb-2025 22:57:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Thu, 27 F...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Thu, 27 F...', '--b1_049da08b99...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[28-Feb-2025 08:37:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Fri, 28 F...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Fri, 28 F...', '--b1_4860adaa11...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[28-Feb-2025 21:34:39 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[28-Feb-2025 21:34:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Fri, 28 F...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Fri, 28 F...', '--b1_acd2ebf62c...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[01-Mar-2025 10:50:38 UTC] PHP Warning:  Undefined array key "comments" in /home/rsariinj/public_html/footer.php on line 186
+[01-Mar-2025 10:50:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sat, 1 Ma...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sat, 1 Ma...', '--b1_e1fc07594e...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[02-Mar-2025 16:02:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sun, 2 Ma...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sun, 2 Ma...', '--b1_ce9e76ceab...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[06-Mar-2025 10:20:33 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[06-Mar-2025 10:20:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Thu, 6 Ma...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Thu, 6 Ma...', '--b1_786f2d3197...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[06-Mar-2025 12:43:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Thu, 6 Ma...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Thu, 6 Ma...', '--b1_99ceb0e518...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[06-Mar-2025 22:49:27 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[06-Mar-2025 22:49:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Thu, 6 Ma...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Thu, 6 Ma...', '--b1_91fbb7bdfe...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[09-Mar-2025 01:01:38 UTC] PHP Warning:  Undefined array key "comments" in /home/rsariinj/public_html/footer.php on line 186
+[09-Mar-2025 01:01:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sun, 9 Ma...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sun, 9 Ma...', '--b1_264696ec1f...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[09-Mar-2025 01:01:46 UTC] PHP Warning:  Undefined array key "comments" in /home/rsariinj/public_html/footer.php on line 186
+[09-Mar-2025 01:01:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sun, 9 Ma...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sun, 9 Ma...', '--b1_934d65ee36...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[09-Mar-2025 04:21:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sun, 9 Ma...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sun, 9 Ma...', '--b1_5e195c0ebd...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[10-Mar-2025 00:47:42 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[10-Mar-2025 00:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Mon, 10 M...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Mon, 10 M...', '--b1_029239f646...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[10-Mar-2025 15:04:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Mon, 10 M...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Mon, 10 M...', '--b1_2031785c99...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[12-Mar-2025 21:48:14 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[12-Mar-2025 21:48:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Wed, 12 M...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Wed, 12 M...', '--b1_c62c8ac34d...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[14-Mar-2025 07:51:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Fri, 14 M...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Fri, 14 M...', '--b1_fffdf8a57c...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[14-Mar-2025 15:23:23 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[14-Mar-2025 15:23:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Fri, 14 M...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Fri, 14 M...', '--b1_1cf405f42d...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[16-Mar-2025 18:20:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sun, 16 M...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sun, 16 M...', '--b1_64a956f85d...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[17-Mar-2025 12:05:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Mon, 17 M...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Mon, 17 M...', '--b1_77c3ffe510...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[18-Mar-2025 14:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Tue, 18 M...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Tue, 18 M...', '--b1_8b58c953f4...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[21-Mar-2025 05:04:45 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[21-Mar-2025 05:04:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Fri, 21 M...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Fri, 21 M...', '--b1_bd9a4495bb...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[23-Mar-2025 21:08:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sun, 23 M...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sun, 23 M...', '--b1_0b61490512...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(214): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[26-Mar-2025 23:06:34 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[26-Mar-2025 23:06:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Wed, 26 M...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Wed, 26 M...', '--b1_ea3190726e...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[28-Mar-2025 19:26:03 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[28-Mar-2025 19:26:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Fri, 28 M...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Fri, 28 M...', '--b1_d17cf51905...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[31-Mar-2025 17:23:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Mon, 31 M...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Mon, 31 M...', '--b1_f14de0246b...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(216): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[01-Apr-2025 15:21:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Tue, 1 Ap...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Tue, 1 Ap...', '--b1_9966e23422...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(216): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[07-Apr-2025 02:59:29 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[07-Apr-2025 02:59:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Mon, 7 Ap...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Mon, 7 Ap...', '--b1_b96b2e85a0...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[08-Apr-2025 10:15:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Tue, 8 Ap...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Tue, 8 Ap...', '--b1_9ce883181c...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(216): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[08-Apr-2025 18:17:42 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[08-Apr-2025 18:17:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Tue, 8 Ap...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Tue, 8 Ap...', '--b1_ef4a1818fa...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[13-Apr-2025 20:56:12 UTC] PHP Warning:  Undefined array key "subject" in /home/rsariinj/public_html/contact.php on line 172
+[13-Apr-2025 20:56:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Sun, 13 A...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Sun, 13 A...', '--b1_58d8af3aa7...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/contact.php(201): PHPMailer->Send()
+#4 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[14-Apr-2025 04:10:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Mon, 14 A...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Mon, 14 A...', '--b1_1096989aca...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(216): PHPMailer->Send()
+#4 /home/rsariinj/public_html/about-us.php(313): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
+[14-Apr-2025 08:05:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/rsariinj/public_html/PHPMailer/class.smtp.php:391
+Stack trace:
+#0 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(814): SMTP->Data('Date: Mon, 14 A...')
+#1 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(630): PHPMailer->SmtpSend('Date: Mon, 14 A...', '--b1_430e6f2d54...')
+#2 /home/rsariinj/public_html/PHPMailer/class.phpmailer.php(575): PHPMailer->PostSend()
+#3 /home/rsariinj/public_html/footer.php(216): PHPMailer->Send()
+#4 /home/rsariinj/public_html/index.php(1333): include('/home/rsariinj/...')
+#5 {main}
+  thrown in /home/rsariinj/public_html/PHPMailer/class.smtp.php on line 391
